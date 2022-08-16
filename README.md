@@ -1,3 +1,2 @@
 # A-Deep-Analysis-of-NBA2k20-Dataset
-This project uses many data cleaning and data visualization techniques to thoroughly analyze and create conclusions for specific data within the given dataset.
-Specific graphs created within the program will only be shown after running(cannot be seen via the browser). The graphs are a big part of the data analysis so please either fork and clone locally or download the code and run to thoroughly see the graphs
+Due to the graphs not being able to be viewed via Github, Please view the notebook "[An analysis of data within NBA2k20]"(https://nbviewer.org/github/DanielSayegh/A-Deep-Analysis-of-NBA2k20-Dataset/blob/main/Analysis%20of%202k20/An%20analysis%20of%20data%20within%20NBA2k20.ipynb#),using the link provided.
